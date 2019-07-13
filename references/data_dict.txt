@@ -2,3 +2,14 @@ Ask A Manager Salary Survey 2019 (Responses)
 Source: https://docs.google.com/spreadsheets/d/1rGCKXIKt-7l5gX06NAwO3pjqEHh-oPXtB8ihkp0vGWo/edit#gid=382484678
 
 Variables:
+
+- timestamp: Time the entry was recorded
+- age: Age of the person entering the record
+- industry: Industry that the person works in
+- job_title: job title of the person putting in the entry
+- annual_salary: annual salary of the person putting in the entry
+- currency: currency (i.e., USD, CNY, etc.)
+- location: Location of their job
+- work_years: Number of years of work post-college.
+- notes: If your job title needs additional context, please clarify here
+- other_currency: If "Other currency", please indicate the currency here
